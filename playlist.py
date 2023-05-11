@@ -28,7 +28,7 @@ if response.status_code == 200:
     # loop sobre as URLs e baixar as músicas
     for url in urls:
         print('Aguarde...')
-        yt = pt.YouTube(url)
+        yt = pt.YouTube(https://raw.githubusercontent.com/Jetrom17/Youtube-py/main/list.txt)
         t = yt.streams.filter(only_audio=True)
         filename = t[0].download()
 
