@@ -1,4 +1,5 @@
 # Minha Playlist
+# Use o "pytube.sh", este código não está pronto 100%!
 
 '''
 
