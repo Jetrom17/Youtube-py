@@ -1,5 +1,5 @@
 echo 'Precisa do "Pytube" e do "git" instalado'
-echo 'apt install git clone git://github.com/pytube/pytube.git'
+echo 'git clone git://github.com/pytube/pytube.git'
 sleep 5
 pytube https://youtu.be/PT8x7HKYVfA
 pytube https://youtu.be/jyISu8FYeI4
